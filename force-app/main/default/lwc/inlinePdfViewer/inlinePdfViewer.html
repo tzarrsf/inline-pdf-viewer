@@ -1,0 +1,19 @@
+<!--
+  @description       : 
+  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @group             : 
+  @last modified on  : 10-02-2023
+  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+-->
+<template>
+    <lightning-card title="Inline PDF Example" icon-name="custom:custom19">
+        <div class="slds-m-around_medium">
+            <p>Direct Link</p>
+            <a href={resourceUrl}>Direct Link 1</a>
+        </div>
+        <div class="slds-m-around_medium">
+            <p>Inline approach #1</p>
+            <embed src={resourceUrl} width="350" height="350" type="application/pdf">
+        </div>
+    </lightning-card>
+</template>
