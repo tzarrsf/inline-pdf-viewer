@@ -12,8 +12,8 @@ This is a simple and straightforward example of displaying a PDF inline in a Lig
 
 - This is a teaching tool and basic example
 - This is a basic proof-of-concept demonstrating that having a document such as a PDF inline in a Lightning Web Component is possible
-- I did not explore and CSS oir dynamic sizing capabilities although it should be possible with CSS or relative sizing paramaters or through a combination of both
- - For ease of deployment, I used a static resource. This could easily be adapted to use a CMS resource (wither enhanced or non-enhanced). I may add that piece later.
+- I did not explore and CSS or dynamic sizing capabilities although it should be possible with CSS or relative sizing parameters or through a combination of both
+ - For ease of deployment, I used a static resource. This could easily be adapted to use a CMS resource (either enhanced or non-enhanced). I may add that piece later.
 
 ## What's in the resource file?
 
