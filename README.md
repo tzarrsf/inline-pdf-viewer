@@ -33,7 +33,7 @@ let renderedUrl = InlinePdfExampleStaticResource + '/Technivorm-Moccamaster-KBG-
 For a basic functional test, deploy the component and the static resource:
 
 - lwc/inlinePdfViewer
-- lwc/InlinePdfExampleStaticResource
+- staticresources/InlinePdfExampleStaticResource
 
 ## Configure Your Salesforce DX Project
 
